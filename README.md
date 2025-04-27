@@ -22,7 +22,7 @@
 
 <details> <summary>Исправленные значения</summary>
 
-```json
+```bash
 
 resource "docker_image" "nginx"{
   name         = "nginx:latest"
@@ -43,7 +43,9 @@ resource "docker_container" "nginx" {
 
 </details>
 
-5.  <details> <summary>docker ps</summary>
+5.
+
+<details> <summary>docker ps</summary>
 
 ![task1](https://github.com/biparasite/TER-HW01/blob/main/task_1.1.png "task1")
 
