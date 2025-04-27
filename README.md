@@ -157,7 +157,8 @@ name  = "hello_world"
 
 `-auto-approve` увеличивает риск ошибок и непредвиденных последствий, поскольку изменения применяются без подтверждения. Пригиться может только для автоматизации CI/CD пайплайнах или тестировании.
 
-7.  <details> <summary>terraform.tfstate</summary>
+7. 
+ <details> <summary>terraform.tfstate</summary>
 
 ```
 {
