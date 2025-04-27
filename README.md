@@ -18,7 +18,7 @@
 
 2. Согласнов .gitignore допустимо сохранить личную, секретную информацию в `personal.auto.tfvars`
 3. Cодержимое созданного ресурса random_password `"result": "yyo6y3Svk0nKBUH0"`
-4. Неописано уникальное имя в текущем проекте (docker_image) `Error: Missing name for resource`, ресурс random_string_FAKE не был объявлен в корневом модуле.
+4. Неописано уникальное имя в текущем проекте (docker_image) `Error: Missing name for resource`. Так же `random_string_FAKE` не был объявлен в корневом модуле.
 
 <details> <summary>Исправленные значения</summary>
 
